@@ -42,3 +42,5 @@ mqshutdown namesrv
 mqshutdown broker
 Documentation
 brew help, man brew or check Homebrew's documentation.
+
+thanks https://github.com/xujianhai666/homebrew-tap
