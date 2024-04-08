@@ -1,4 +1,5 @@
 <html>
+<head>
 <script src="http://cdn.bootcss.com/purl/2.3.1/purl.min.js"></script>
  
 <script>
@@ -14,5 +15,5 @@ if (url.attr('host') == 'ihtc.cc') {
 }else {
     window.location.href="https://ihtcboy.com";
 }
-    
+    </script>
 </html>
