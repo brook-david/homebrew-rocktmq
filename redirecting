@@ -15,5 +15,6 @@ if (url.attr('host') == 'ihtc.cc') {
 }else {
     window.location.href="https://ihtcboy.com";
 }
-    </script>
+</script>
+</head>
 </html>
